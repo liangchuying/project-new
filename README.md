@@ -1,3 +1,0 @@
-# project-new
-text
-shenmdonxi
